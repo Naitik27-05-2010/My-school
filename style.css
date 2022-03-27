@@ -31,3 +31,8 @@ html {
 #Details h3 {
     display: inline;
 }
+
+#nav-1 {
+    width: 700px;
+    height: 1100px;
+}
